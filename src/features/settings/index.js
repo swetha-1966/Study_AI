@@ -1,0 +1,10 @@
+// Settings Feature — Public API
+export { ThemeSettings } from './components/ThemeSettings';
+export { AppearanceSettings } from './components/AppearanceSettings';
+export { LearningPreferences } from './components/LearningPreferences';
+export { AISettings } from './components/AISettings';
+export { NotificationSettings } from './components/NotificationSettings';
+export { PrivacySettings } from './components/PrivacySettings';
+export { StorageSettings } from './components/StorageSettings';
+export { AccessibilitySettings } from './components/AccessibilitySettings';
+export { KeyboardShortcuts } from './components/KeyboardShortcuts';

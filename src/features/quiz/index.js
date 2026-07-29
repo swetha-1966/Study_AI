@@ -1,0 +1,10 @@
+// Quiz Feature — Public API
+export { Quiz } from './components/Quiz';
+export { QuizQuestion } from './components/QuizQuestion';
+export { QuizHeader } from './components/QuizHeader';
+export { QuizResult } from './components/QuizResult';
+export { QuizTimer } from './components/QuizTimer';
+export { ConfidenceSlider } from './components/ConfidenceSlider';
+export { ExplanationPanel } from './components/ExplanationPanel';
+export { useQuizTimer } from './hooks/useQuizTimer';
+export { calculateQuizScore } from './utils/scoring';
